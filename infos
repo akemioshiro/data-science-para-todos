@@ -1,0 +1,67 @@
+wifi: paulista 
+senha: paulista01
+
+
+https://jupyter.databootcamp.com.br/hub/login
+usuario = primeira parte do email
+senha = bootcamp
+
+pta_treinamento
+pta_2018
+
+------------------------------------------------------------------------------------
+Python
+
+- shift + enter: para executar uma celula
+
+- jupyter cria notebook, notebook é como se fosse um livro
+
+- no python é uma instrução em cada linha
+
+- toda vez que o python encontra um erro, para um programa
+
+- Style Guide do Python
+https://www.python.org/dev/peps/pep-0008/
+
+- black - formata o python
+- flake8 - formata o python
+
+- ao executar o comando com o ? fornece um help (comando do jupyter)
+mensagem_resultado.strip?
+
+- help do python
+help(mensagem_resultado)
+
+- só modifico o dado quando realmente tiver certeza
+
+- tupla não é mutavel
+
+- biblioteca pandas é um repositorio de funções, open source
+
+- Pandas: biblioteca do cientistas de dados
+
+- dataframe é uma estrutura tabular, linhas e colunas
+
+- shift + tab mostra as descrições dos metodos
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
